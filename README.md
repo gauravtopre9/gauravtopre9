@@ -22,6 +22,7 @@ I'm a passionate learner of **Data Science Domain** who's always willing to lear
 To connect with me (✉) gaurav.topre@outlook.com  
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravtopre9&show_icons=true&theme=radical)
 
 
 
