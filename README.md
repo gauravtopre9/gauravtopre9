@@ -13,16 +13,16 @@ I'm a passionate learner of **Data Science Domain** who's always willing to lear
 
 💬 I am excellent Story-teller (Ask me anything I will deliver a story on it 🤓)
 
-🥅 2021 Goals: Travel and explore
+🥅 2022 Goals: Travel and explore
 
 ⚡ Fun fact: Ant's take rest for around 8 Minutes in 12 hour period. (What about you ?)
 
 📫 To know more about me: [Click here!](https://linktr.ee/gauravtopre/)
 
-To connect with me (✉) gaurav.topre@outlook.com  
+To connect with me (✉) gauravtopre.aca@gmail.com  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravtopre9&show_icons=true&theme=radical)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravtopre9&show_icons=true&theme=radical)
 
 
 
