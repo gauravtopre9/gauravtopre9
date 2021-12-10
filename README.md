@@ -4,10 +4,10 @@
 
 I'm a senior undergraduate 🎓at Dr.Babasaheb Ambedkar Technological University, Lonere 🏛 in Electronics and Telecommunication Engineering📡. 
 
-I'm a passionate learner of **Data Science Domain** who's always willing to learn and work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I'm a passionate learner of **Data Science and Machine Learning** who's always willing to learn and work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 
-✍ I’m currently working on the Business Intelligence project of an edutech startup
+✍ I’m currently looking for opportunities in Data Analysis and Business Inteligence Domains
 
 🏸 I’m into sport. I play Badminton (but unprofessionally...😁)                                         
 
