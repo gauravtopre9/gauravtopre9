@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Vijay Topre</h1>
 <h3 align="center">Data Analyst and Machine Learning Enthusiast!</h3>
 
-- I'm Student of **Dr.Babasaheb Ambedkar Technological University Lonere**
+- I'm Final Year Student of **Dr.Babasaheb Ambedkar Technological University, Lonere**
 
 - 🌱 I’m currently learning **Machine Learning, Deep learning and CNN**
 
