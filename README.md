@@ -43,9 +43,7 @@ Hi, I'm Gaurav Topre!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravtopre9&" alt="gauravtopre9" /></p>
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+
     
 
 
