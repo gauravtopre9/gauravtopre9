@@ -52,7 +52,7 @@ Hi, I'm Gaurav Topre!
     
 Credits: [Gaurav Topre](https://github.com/gauravtopre9)
 
-Last Edited on: 15/01/2022
+
 
 <!---
 gauravtopre9/gauravtopre9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
