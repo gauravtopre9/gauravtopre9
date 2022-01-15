@@ -11,7 +11,7 @@ Hi, I'm Gaurav Topre!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Learner;Machine+Learning+Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub+Profile;I'm+Data+Science+Learner;I'm+Machine+Learning+Enthusiast;Ready%20to%20Collaborate&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
