@@ -51,7 +51,7 @@ Hi, I'm Gaurav !
 
 
     
-Credits: [Gaurav Topre](https://github.com/gauravtopre9)
+
 
 
 
