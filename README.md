@@ -19,7 +19,7 @@ Hi, I'm Gaurav !
 
 - 🌱 I’m currently learning **Machine Learning, Deep learning and CNN**
 
-- I’m looking for **opportunities in Data Science and Machine Learning**
+- I’m looking for **opportunities in Data Science and Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://linktr.ee/gauravtopre)
 
