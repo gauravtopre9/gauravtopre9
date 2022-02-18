@@ -27,6 +27,8 @@ Hi, I'm Gaurav !
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Jb-D98IZTajPxNcsu6vDEWGFOpsWpzL-/view)
 
+- Read me on Medium : [Blogs Published](https://medium.com/@gauravtopre9)
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/gaurav-topre-69678b1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-topre-69678b1ab/" height="30" width="40" /></a>
