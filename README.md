@@ -17,6 +17,8 @@ Hi, I'm Gaurav !!!
 
 - I'm Final Year Student of **Dr.Babasaheb Ambedkar Technological University, Lonere**
 
+- Kaggle 3X Expert
+
 - 🌱 I’m currently learning **Machine Learning, Deep learning and CNN.**
 
 - I’m looking for **opportunities in Data Science and Machine Learning.**
