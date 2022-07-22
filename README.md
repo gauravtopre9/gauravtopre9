@@ -15,7 +15,7 @@ Hi, I'm Gaurav !!!
 </p>
 <hr/>
 
-- I'm Final Year Student of **Dr.Babasaheb Ambedkar Technological University, Lonere**
+- I'm an **Electronics and Telecommunication Engineer** graduated from  **Dr.Babasaheb Ambedkar Technological University, Lonere**
 
 - Kaggle 3X Expert (Notebook, Dataset and Discussion)
 
