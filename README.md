@@ -27,7 +27,7 @@ Hi, I'm Gaurav !!!
 
 - 📫 How to reach me **gauravtopre.aca@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Jb-D98IZTajPxNcsu6vDEWGFOpsWpzL-/view)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1r81MON7BRxWFcL7YyMTHvtlwFsWDH-wf/view)
 
 - Read me on Medium : [Blogs Published](https://medium.com/@gauravtopre9)
 
