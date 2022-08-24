@@ -15,51 +15,121 @@ Hi, I'm Gaurav !!!
 </p>
 <hr/>
 
-- I'm an **Electronics and Telecommunication Engineer** graduated from  **Dr.Babasaheb Ambedkar Technological University, Lonere**
-
-- Kaggle 3X Expert (Notebook, Dataset and Discussion)
-
-- 🌱 I’m currently learning **Machine Learning, Deep learning and CNN.**
-
-- I’m looking for **opportunities in Data Science and Machine Learning.**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://linktr.ee/gauravtopre)
-
-- 📫 How to reach me **gauravtopre.aca@gmail.com**
-
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1r81MON7BRxWFcL7YyMTHvtlwFsWDH-wf/view)
-
-- Read me on Medium : [Blogs Published](https://medium.com/@gauravtopre9)
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/gaurav-topre-69678b1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-topre-69678b1ab/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/gauravtopre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gauravtopre" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gaurav_topre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gaurav_topre/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gaurav_topre?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gaurav_topre?hr_r=1" height="30" width="40" /></a>
-<a href="https://leetcode.com/user8919nx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user8919nx/" height="30" width="40" /></a>
+<!-- Socials -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-topre-69678b1ab/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-topre-69678b1ab/">
+  </a>
+  <a href="https://www.kaggle.com/gauravtopre" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/gauravtopre">
+  </a>
+  <a href="https://public.tableau.com/app/profile/gaurav.topre" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/gaurav.topre">
+  </a>
+  <a href="https://medium.com/@gauravtopre9">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@gauravtopre9">
+  </a>
+  <!-- <a href="https://www.behance.net/caesarmario_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/caesarmario_">
+  </a> -->
+  <a href="mailto:gauravtopre.aca@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gauravtopre.aca@gmail.com">
+  </a>
+  <a href="https://linktr.ee/gauravtopre" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/gauravtopre">
+  </a>
+    <a href="https://www.hackerrank.com/Gaurav_Topre?hr_r=1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Gaurav_Topre?hr_r=1">
+  </a>
+    <a href="https://leetcode.com/gaurav_ix/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link="https://leetcode.com/gaurav_ix/">
+  </a>
+  
 </p>
 
 
+<!-- About Me -->
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
+### `Hello There!👋`
+- I am a B.Tech Graduate from Dr.Babasaheb Ambedkar Technological University,Lonere. <br>
+- I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/gaurav-topre-69678b1ab/)** or my **[personal email](mailto:gauravtopre.aca@gmail.com)**. <br>
+- Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
+
+<!-- Programming Skills -->
+## 🎯 Skills
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a> 
+</p>
+
+<!-- Software -->
+## 🖥 Software
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+  <a><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+  <a><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+</p>
+
+<!-- <p align="center">
+  <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
+  <a><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+</p> -->
+
+<!-- Stats -->
+<!-- ## 💹 Stats -->
+<!-- #### ▶ Kaggle -->
+<!-- <p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/dataset/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/notebook/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/discussion/"/>
+</p> -->
+
+<!-- Badges -->
+## 🎖️ Badges
+<p align="center">
+  <a href="https://www.credly.com/users/gaurav-topre.842e8665/badges"><img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" width="18.5%" height="18.5%" alt="SAS Badge"/></a>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/gauravtopre/notebook/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/gauravtopre/dataset/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/gauravtopre/discussion/"/>
+</p>
+
+<!-- Posts -->
+## 🏆 Certification and Achievements 
+### 📃 Certifications
+<a><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a>
+- [Data Sciece Professional Certificate(IBM)](https://www.coursera.org/account/accomplishments/professional-cert/MWGBSNZYF83E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- [Applied Data Science Specialization (IBM)](https://www.coursera.org/account/accomplishments/specialization/RNNVYZLDHT48?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+- [Machine Learning (Sandford University)](https://www.coursera.org/account/accomplishments/verify/2XKJXPNG5JSB?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+<a><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+- [Problem Solving assesment Certificate](https://www.hackerrank.com/certificates/ce4a3bd2bf52)
+- [SQL Intermediate Assesment Certificate](https://www.hackerrank.com/certificates/649f50fe7161)
+- [Python Assesment Certificate](https://www.hackerrank.com/certificates/2a6641fcb7e0)
+
+### ✅ Achievements
+- [Featured in Streamlit.io Weekly Round Up (In Geography and Society Domain)](https://discuss.streamlit.io/t/weekly-roundup-candlestick-charts-surfboard-volume-calculators-global-fund-explorers-and-more/28404)
+- [Winner of Internal Smart India Hackathon 2020](https://drive.google.com/file/d/14Ftx0ppgdbw69myRfZqtMSdoahv7fyBe/view)
 
 
+## 💻 Projects
+### 🔍 Data Analysis 
+- [DMart Products Analysis](https://www.kaggle.com/code/gauravtopre/dmart-products-analysis)
+- [IPL Auction Analysis](https://www.kaggle.com/code/gauravtopre/ipl-auction-2022-analysis)
+- [Loksabha Members Analysis WebApp](https://loksabha-analysis-by-gaurav.herokuapp.com/)
 
-<h3 align="center"><h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2></h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📊 Dashboards
+- [Pharmacy Business Dashboard](https://public.tableau.com/app/profile/gaurav.topre/viz/PharmacyBusinessDashboard/Dashboard1)
+- [Global Superstore Dashboard](https://public.tableau.com/app/profile/gaurav.topre/viz/GlobalSuperstore-Dashboard_16345717179030/Dashboard1)
+- [Human Resource Dashboard](https://github.com/gauravtopre9/Business-Intelligence-Projectss/tree/main/POWER%20BI/HUMAN%20RESOURCE)
 
+---
 
-<h3 align="center">STATS</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravtopre9&show_icons=true&locale=en" alt="gauravtopre9" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravtopre9&" alt="gauravtopre9" /></p>
-
-
-    
-
-
-
-
-<!---
-gauravtopre9/gauravtopre9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> ### "Always do something that Excites you!"
