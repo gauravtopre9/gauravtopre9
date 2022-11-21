@@ -51,7 +51,7 @@ Hi, I'm Gaurav !!!
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
 ### `Hello There!👋`
-- I am a B.Tech Graduate from Dr.Babasaheb Ambedkar Technological University,Lonere. <br>
+- I am a B.Tech Graduate from Dr.Babasaheb Ambedkar Technological University,Lonere and cureently working as a Data Analyst at **Findability Sciences** a leading global AI startup. <br>
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/gaurav-topre-69678b1ab/)** or my **[personal email](mailto:gauravtopre.aca@gmail.com)**. <br>
 - Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
 
