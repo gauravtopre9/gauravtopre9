@@ -11,7 +11,7 @@ Hi, I'm Gaurav !!!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub+Profile;I'm+Data+Scientist+at+Findability+Sciences;Currently+Working+on+Generative+AI;Ready%20to%20Collaborate&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub+Profile;I'm+Data+Scientist+at+Tesco+Bengalore;Currently+Working+on+Generative+AI;Ready%20to%20Collaborate&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
@@ -51,7 +51,7 @@ Hi, I'm Gaurav !!!
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
 ### `Hello There!👋`
-- I am currently working as a Data Scientist at **[Findability Sciences](https://findability.ai/)** <br>
+- I am currently working as a Data Scientist at **[Tesco Business Solutions (TBS Bengaluru)](https://www.tescobengaluru.com/)** <br>
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/gaurav-topre-69678b1ab/)** or my **[personal email](mailto:gauravtopre.aca@gmail.com)**. <br>
 - Finally, thank you very much for visiting my GitHub profile. **Have a nice day !** 😁
 
