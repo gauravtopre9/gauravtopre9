@@ -51,7 +51,7 @@ Hi, I'm Gaurav !!!
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3%" height="3%"> About Me 
 ### `Hello There!👋`
-- I am currently working as a Data Scientist at **[Tesco Business Solutions (TBS Bengaluru)](https://www.tescobengaluru.com/)** <br>
+- I am currently working as a Senior Data Scientist at **[Tesco Business Solutions (TBS Bengaluru)](https://www.tescobengaluru.com/)** <br>
 - I hope that by visiting my works, you can get to know me better. If you want to contact me, you can contact me via **[LinkedIn](https://www.linkedin.com/in/gaurav-topre-69678b1ab/)** or my **[personal email](mailto:gauravtopre.aca@gmail.com)**. <br>
 - You can also check **[My Website]**(https://gauravtopre.netlify.app/)
 
